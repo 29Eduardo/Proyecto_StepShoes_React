@@ -9,8 +9,8 @@ function App() {
     <>
       <div>
         <Home/>
-        <Servicios/>
         <Nosotros/>
+        <Servicios/>
         <Galeria/>
         <Contacto/>
         <Login/>
