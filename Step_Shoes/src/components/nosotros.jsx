@@ -1,5 +1,3 @@
-
-
 function Nosotros() {
   return (
     <div className="container">

@@ -1,5 +1,3 @@
-
-
 function Galeria(){
     <div>
         <h1>Galeria</h1>
